@@ -263,3 +263,54 @@ body {
   color: #7a869a;
 }
 /* end  of  Early-Access-Section */
+
+
+/* start of footer */
+
+.footer {
+  background: #061c33;
+  padding: 60px 0 30px;
+  color: #ffffff;
+}
+
+.footer-container {
+  width: 1100px;
+  margin: 0 auto;
+}
+
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.footer-social p {
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: #d1d9e0;
+}
+
+.social-icons {
+  display: flex;
+  gap: 14px;
+}
+
+.social-icons a {
+  width: 32px;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+}
+
+.footer-copyright {
+  text-align: center;
+  font-size: 14px;
+  color: #c3ccd6;
+}
+
+/* end of footer */
