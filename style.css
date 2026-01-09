@@ -114,3 +114,53 @@ body {
   cursor: pointer;
 }
 /*end of banner section*/
+
+
+/* start of notes section */
+
+.notes {
+  padding: 60px 40px; 
+    text-align: center; 
+  font-family: Arial, sans-serif;
+}
+
+.notes-title {
+  font-size: 36px;
+  font-weight: 700;
+  color: #1f3147; 
+  margin-bottom: 10px;
+}
+
+.notes-subtitle {
+  font-size: 16px;
+  color: #6b7280; 
+  margin-bottom: 50px;
+}
+
+.notes-cards {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+}
+
+.card {
+  width: 240px;
+  padding: 30px 20px;
+  background: #1d753c;
+  border-radius: 10px;
+}
+
+.card h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: #f0f4fa;
+}
+
+.card p {
+  font-size: 14px;
+  color: #030303;
+  line-height: 1.4;
+}
+
+/*end of notes section*/
