@@ -215,3 +215,51 @@ body {
   margin-bottom: 14px;
 }
 /* end of second-brain section */
+
+
+/* start of  Early Access Section */
+.Early-Access-Section {
+  padding: 80px;
+
+}
+.Early-Access-Section-container {
+  width: 1100px;
+  margin: 0 auto;
+  background: #f8f7f3;
+  border-radius: 16px;
+  padding: 80px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.Early-Access-Section-container h2 {
+  font-size: 36px;
+  color: #0f1c2e;
+  margin-bottom: 16px;
+}
+
+.Early-Access-Section-container-text {
+  font-size: 16px;
+  color: #6b778c;
+  line-height: 1.6;
+  margin-bottom: 32px;
+}
+
+.Early-Access-Section-btn{
+  background: #3a8f63;
+  color: #ffffff;
+  border: none;
+  padding: 14px 26px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+
+.Early-Access-Section-container-text2 {
+  font-size: 14px;
+  color: #7a869a;
+}
+/* end  of  Early-Access-Section */
